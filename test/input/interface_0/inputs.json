@@ -1,0 +1,30 @@
+[
+    {
+        "file": null,
+        "image": {
+            "name": "00001.tif"
+        },
+        "value": null,
+        "interface": {
+            "slug": "stacked-images-subject-to-unstructured-noise",
+            "kind": "Image",
+            "super_kind": "Image",
+            "relative_path": "images/image-stack-unstructured-noise",
+            "example_value": null
+        }
+    },
+    {
+        "file": null,
+        "image": {
+            "name": "00002.tif"
+        },
+        "value": null,
+        "interface": {
+            "slug": "stacked-images-subject-to-unstructured-noise",
+            "kind": "Image",
+            "super_kind": "Image",
+            "relative_path": "images/image-stack-unstructured-noise",
+            "example_value": null
+        }
+    }
+]
