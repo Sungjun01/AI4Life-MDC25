@@ -27,10 +27,11 @@ This repository contains a complete Docker container submission for the AI4Life 
 - Supports both `.tif` and `.mha` formats
 
 ### Training Dataset
-- `data/` - Complete training dataset (4,954 TIFF files)
-- `small_images/` - 2,457 image pairs (256×256)
-- `large_images/` - 20 image pairs (1024×1024)
-- Ground truth and noisy image pairs
+- `data/` - Sample training dataset (5 image pairs shown)
+- Complete dataset: 4,954 TIFF files (2,477 pairs)
+  - `small_images/` - 2,457 pairs (256×256) 
+  - `large_images/` - 20 pairs (1024×1024)
+- **Note**: Only sample images uploaded due to GitHub size limits
 
 ### Utilities
 - `create_stacks.py` - Creates stacked TIFF format for testing
